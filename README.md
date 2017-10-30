@@ -1,4 +1,6 @@
-# pl-in-147 ，147服务器上的内容，147路径/data12/yzhou/github/test
+# pl-in-147 内容
+
+147服务器上的内容，147路径/data12/yzhou/github/test
 
 1.txt、2.txt 为熟悉上传操作上传https://github.com/bg6cq/learngit
 
